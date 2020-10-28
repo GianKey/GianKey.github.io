@@ -104,5 +104,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git 
-  repo:  https://github.com/WJ-Key/GianKey.github.io
+  repo:  https://github.com/GianKey/GianKey.github.io
   branch: master 
